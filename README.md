@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🧐 I just finished Data Analytics BootCamp form UC Berkeley Extension.
+- 🤓 I'm currently taking Udacity Data Analyst Nanodegree Program
+- 📫 How to reach me:https://www.linkedin.com/in/andrejach/
+- 💬 Ask me about contributing to a project
+- 💡 Looking for a full time position as a Data Analyst
+
 <!--
 **AndrejaCH/AndrejaCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
