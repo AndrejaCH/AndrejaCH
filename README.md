@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+This is Andreja! Thank you for visiting my GitHub page.
+
+I recently graduated from Data Analytics BootCamp form UC Berkeley Extension 🎓 where I gained technical programming and analytical skills and developed essential industry ingenuity through real-world projects and team collaborations. Feel free to take a look at my repositories.
+
+I am currently enrolled in Udacity Data Analyst Nanodegree Program continue to hone my skills as a Data Analyst and exploring an amazing field of Data Science! 🧐
+
+### Currently...
+
 - 🧐 I just finished Data Analytics BootCamp form UC Berkeley Extension
 - 🤓 I'm currently enrolled in Udacity Data Analyst Nanodegree Program
 - 📫 How to reach me:https://www.linkedin.com/in/andrejach/
