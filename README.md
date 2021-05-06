@@ -5,7 +5,7 @@ This is Andreja! Thank you for visiting my GitHub page.
 ### A bit about me ...
 - Data analyst with a background in business management, marketing, and culinary
 - I am passionate about transforming raw data into useful formats, and telling stories through powerful visualizations and meaningful reports 📈📉
-- I recently graduated from Data Analytics BootCamp form UC Berkeley Extension ✨🎓✨🎓 where I gained technical programming and analytical skills and developed essential industry ingenuity through real-world projects and team collaborations. Feel free to take a look at my repositories 💡
+- I recently graduated from Data Analytics BootCamp form UC Berkeley Extension ✨🎓✨🎓 where I gained technical programming and analytical skills and developed essential industry ingenuity through real-world projects and team collaborations. Feel free to take a look at my repositories 👇
 - I am currently enrolled in Udacity Data Analyst Nanodegree Program and continuing to hone my skills as a Data Analyst and exploring an amazing field of Data Science! 🧐
 
 ### Connect with me on LinkedIn...
