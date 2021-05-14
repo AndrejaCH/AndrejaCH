@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Andreja! Thank you for visiting my GitHub page.
+Thank you for visiting my GitHub page.
 
 ### A bit about me ...
 - Data analyst with a background in business management, marketing, and culinary
