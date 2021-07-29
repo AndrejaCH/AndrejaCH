@@ -7,7 +7,7 @@ Thank you for visiting my GitHub page.
 - Data analyst with a background in business management, marketing, and culinary
 - I am passionate about transforming raw data into useful formats and telling stories through powerful visualizations and meaningful reports 📈📉
 - I recently graduated from Data Analytics BootCamp from UC Berkeley Extension ✨🎓✨🎓 and Udacity Data Analyst Nanodegree Program where I gained technical programming and analytical skills and developed essential industry ingenuity through real-world projects and team collaborations. Feel free to take a look at my repositories 👇
-- I continue to work on projects and honing my skills through online classes currently and exploring an amazing field of Data Science! 🧐
+- I continue to work on projects and honing my skills through online classes and exploring an amazing field of Data Science! 🧐
 
 
 ### Connect with me on LinkedIn...
